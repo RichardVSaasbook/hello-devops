@@ -250,3 +250,6 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+/DevOpsWeb/DevOpsWeb.Client/Web.Release.config
+/DevOpsWeb/DevOpsWeb.Client/Web.Debug.config
+/DevOpsWeb/DevOpsWeb.Client/Web.config
